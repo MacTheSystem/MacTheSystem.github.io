@@ -1,0 +1,18 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+  color: #90caf9;
+}
+
+nav, footer, .site-header, .site-footer {
+  background: #1e1e1e;
+  color: #bbb;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}

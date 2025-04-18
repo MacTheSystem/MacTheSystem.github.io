@@ -1,0 +1,15 @@
+title: Starting from Scratch
+description: Learning something new every day.
+baseurl: ""
+url: "https://MacTheSystem.github.io"
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title.html
+
+sass:
+  style: compressed
