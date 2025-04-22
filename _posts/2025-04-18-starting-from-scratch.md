@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Starting from Scratch"
+title: "Day One"
 date: 2025-04-18
 ---
 
-Today I officially launched my site to document my cybersecurity journey!
+Hello and welcome! My name is Michael Purcell and I am creating this site in order to showcase my cybersecurity and Programming learning journey. I am currently using free resources such as Try Hack Me and LeetCode, as well as currently studying to take the CompTia A+ and Security+. 
 
-What I accomplished:
-- Set up GitHub Pages
-- Added a dark theme
-- Planned content structure (Blog, Projects, Ideas)
+
 
 Excited to keep going 💪
